@@ -16,3 +16,6 @@ To begin, one must first download a few applications.
 3. Type `cmd`
 4. Start to move into your folder. You can do this by doing `cd {folder name}` (you do not need the {})
 5. In the folder copy and paste this command `git clone https://github.com/B1GB0SS0P/Training-Materials.git`
+
+## Google Drive for videos that are too big
+https://drive.google.com/drive/folders/1OJMDmbiHIqcQmyM0ZqG1SnAT2rNakc8W?usp=sharing
